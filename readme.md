@@ -72,8 +72,6 @@ This repository serves as a **presentation and showcase** of the project.
 
 For more information, collaboration, or demo access, feel free to contact me.
 
-https://errc.eu
-
 ---
 
 > _“Built to make Rope Rescue Competitions scoring fair, fast, and transparent.”_
