@@ -51,7 +51,6 @@ The system supports **English** and **Slovenian** languages.
 | 🗂️ Submitted Submissions Page | ![Submissions List](screenshots/submited_submissions.png) |
 | 📊 Live Results Page | ![Live Results](screenshots/live_results.png) |
 
-*(Note: Replace filenames above with your actual screenshot names.)*
 
 ---
 
