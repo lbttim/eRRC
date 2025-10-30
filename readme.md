@@ -54,23 +54,16 @@ The system supports **English** and **Slovenian** languages.
 
 ---
 
-## 🧩 Technology Stack
-
-*(For presentation purposes – adapt if needed)*
-
-- **Frontend:** Modern responsive web interface  
-- **Backend:** RESTful API for data and scoring logic  
-- **Database:** Relational DB for teams, results, and competitions  
-- **Other:** Multi-language support, PDF/Excel export, authentication system
-
----
-
 ## 🧭 Project Status
 
-This repository serves as a **presentation/demo** of the **eRRC** project.  
-Source code is currently **not publicly available**.
+**eRRC** is currently in **beta testing**.  
+The app has already been successfully used in **two Rope Rescue Challenge competitions**, with **excellent feedback** from both referees and organizers.
 
-If you're interested in learning more about the project or seeing a live demo, feel free to get in touch.
+The primary goal is to make the system as **flexible and configurable** as possible — so that future competitions won’t require code or deployment changes.  
+Instead, competition admins will be able to **fully configure competition criteria, locations, and scoring parameters** directly within the app.
+
+Please note that the **source code is not publicly available** at this time.  
+This repository serves as a **presentation and showcase** of the project.
 
 ---
 
