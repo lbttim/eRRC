@@ -38,6 +38,21 @@ The system supports **English** and **Slovenian** languages.
 
 ---
 
+## 🧭 Project Status
+
+**eRRC** is currently in **beta testing**.  
+The app has already been successfully used in **two Rope Rescue Challenge competitions**, with **excellent feedback** from both referees and organizers.
+
+The primary goal is to make the system as **flexible and configurable** as possible — so that future competitions won’t require code or deployment changes.  
+Instead, competition admins will be able to **fully configure competition criteria, locations, and scoring parameters** directly within the app.
+
+In addition to the web app, an **Android app is currently in development**, allowing referees to **submit results offline** and later sync them with the main server, ensuring smooth operation even in areas with limited connectivity.
+
+Please note that the **source code is not publicly available** at this time.  
+This repository serves as a **presentation and showcase** of the project.
+
+---
+
 ## 🖼️ Screenshots
 
 | Feature | Preview |
@@ -50,20 +65,6 @@ The system supports **English** and **Slovenian** languages.
 | 📝 Referee Submission Page | ![Submission](screenshots/add_submission.png) |
 | 🗂️ Submitted Submissions Page | ![Submissions List](screenshots/submited_submissions.png) |
 | 📊 Live Results Page | ![Live Results](screenshots/live_results.png) |
-
-
----
-
-## 🧭 Project Status
-
-**eRRC** is currently in **beta testing**.  
-The app has already been successfully used in **two Rope Rescue Challenge competitions**, with **excellent feedback** from both referees and organizers.
-
-The primary goal is to make the system as **flexible and configurable** as possible — so that future competitions won’t require code or deployment changes.  
-Instead, competition admins will be able to **fully configure competition criteria, locations, and scoring parameters** directly within the app.
-
-Please note that the **source code is not publicly available** at this time.  
-This repository serves as a **presentation and showcase** of the project.
 
 ---
 
