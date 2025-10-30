@@ -78,6 +78,8 @@ If you're interested in learning more about the project or seeing a live demo, f
 
 For more information, collaboration, or demo access, feel free to contact me.
 
+https://errc.eu
+
 ---
 
 > _“Built to make Rope Rescue Competitions scoring fair, fast, and transparent.”_
